@@ -1,4 +1,4 @@
-# ai_app
+# AI_Chat_Bot_App
 
 A new Flutter project.
 
